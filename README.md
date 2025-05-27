@@ -1,4 +1,3 @@
-# Age-and-Gender-Prediction
 # Age and Gender Prediction Model
 
 This repository features a deep learning model for age and gender prediction from facial images, built with TensorFlow/Keras CNNs. Optimized for Google Colab, it offers real-time webcam and file upload prediction capabilities.
