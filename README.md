@@ -15,7 +15,7 @@ This repository features a deep learning model for age and gender prediction fro
 
 ## Project Overview
 
-Develops and trains a deep learning model to predict age and gender from facial images using a multi-output CNN architecture for simultaneous regression (age) and classification (gender).
+Developed and Trained a deep learning model to predict age and gender from facial images using a multi-output CNN architecture for simultaneous regression (age) and classification (gender).
 
 ## Features
 
